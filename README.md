@@ -1,0 +1,29 @@
+# Jeans Store
+
+Jeans Store is a web application for managing and browsing a collection of jeans products. The application allows administrators to perform CRUD operations (Create, Read, Update, Delete) on the product catalog, while regular users can browse the front end to view available jeans.
+
+## Features
+
+- **Admin Panel:**
+  - Create, read, update, and delete products.
+  - Manage product details such as name, description, price, and stock.
+- **User Interface:**
+  - Browse and search for jeans products.
+  - View detailed information about each product.
+
+## Technologies Used
+
+- **Backend:**
+  - Django
+  - SQLite (default, can be changed to any other database)
+- **Frontend:**
+  - HTML
+  - CSS (with Bootstrap)
+  - JavaScript
+
+## Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/jeans-store.git
+   cd jeans-store
