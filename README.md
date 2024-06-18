@@ -6,10 +6,9 @@ Jeans Store is a web application for managing and browsing a collection of jeans
 
 - **Admin Panel:**
   - Create, read, update, and delete products.
-  - Manage product details such as name, description, price, and stock.
+  - Manage product details such as brand, price, and stock.
 - **User Interface:**
   - Browse and search for jeans products.
-  - View detailed information about each product.
 
 ## Technologies Used
 
@@ -19,11 +18,10 @@ Jeans Store is a web application for managing and browsing a collection of jeans
 - **Frontend:**
   - HTML
   - CSS (with Bootstrap)
-  - JavaScript
 
 ## Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/jeans-store.git
+    https://github.com/Dagim-Zeynu/Jeans-Store.git
    cd jeans-store
