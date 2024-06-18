@@ -23,5 +23,5 @@ Jeans Store is a web application for managing and browsing a collection of jeans
 
 1. **Clone the repository:**
    ```bash
-    git clone https://github.com/Dagim-Zeynu/Jeans-Store.git
+   git clone https://github.com/Dagim-Zeynu/Jeans-Store.git
    cd jeans-store
